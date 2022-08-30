@@ -1,2 +1,2 @@
 # LSTM
-fucking LSTM
+so-called LSTM
